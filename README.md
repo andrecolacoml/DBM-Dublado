@@ -5,7 +5,7 @@ Além do DBM este projeto contém algumas dublagens do WeakAuras e SharedMedia.
 
 Esta versão foi produzida para uso Warmane e testada no Icecrown.
 
-Qualquer melhoria podem me procurar no Discord https://discord.gg/vVNcEn8ddH
+Qualquer dúvida ou sugestão podem me procurar no Discord https://discord.gg/vVNcEn8ddH
 
 **Como instalar?**
 
