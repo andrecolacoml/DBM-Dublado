@@ -1,4 +1,4 @@
-# DBM-Dublado
+# DBM-Dublado (PT-BR)
 Dublagem de áudio do DBM Zidras feito na IA ElevenLabs.
 
 Além do DBM este projeto contém algumas dublagens do WeakAuras e SharedMedia.
