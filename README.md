@@ -3,6 +3,10 @@ Dublagem de áudio do DBM Zidras feito na IA ElevenLabs.
 
 Além do DBM este projeto contém algumas dublagens do WeakAuras e SharedMedia.
 
+Esta versão foi produzida para uso Warmane e testada no Icecrown.
+
+Qualquer melhoria podem me procurar no Discord https://discord.gg/vVNcEn8ddH
+
 **Como instalar?**
 
 1 - Baixe a última atualização do meu arquivo.
