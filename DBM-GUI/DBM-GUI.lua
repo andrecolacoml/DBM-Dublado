@@ -1,5 +1,5 @@
 -- *********************************************************
--- **               Deadly Boss Mods - GUI                **
+-- **               DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK) - GUI                **
 -- **            http://www.deadlybossmods.com            **
 -- *********************************************************
 --

@@ -3,11 +3,11 @@ if not DBM_GUI_L then DBM_GUI_L = {} end
 
 local L = DBM_GUI_L
 
---L.MainFrame = "Deadly Boss Mods"
+--L.MainFrame = "DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)"
 
 L.TranslationByPrefix		= "Retail rétroportage par "
 L.TranslationBy			= "Barsoom, Bunny67, Zidras"
-L.Website					= "Rendez-nous visite sur discord à |cFF73C2FBhttps://discord.gg/CyVWDWS|r"
+L.Website					= "Rendez-nous visite sur discord à |cFF73C2FBhttps://discord.gg/vj8K2k4BYK|r"
 L.WebsiteButton				= "Site web"
 
 L.OTabBosses	= "Bosses"--Deprecated and will be deleted once tabs no longer use this

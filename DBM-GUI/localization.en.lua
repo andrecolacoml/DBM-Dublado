@@ -8,7 +8,7 @@ L.MainFrame 						= CL.DEADLY_BOSS_MODS -- NO TRANSLATE
 L.DBMWarmane						= CL.DBM .. "-Warmane by Zidras"
 L.TranslationByPrefix				= "Retail backport by "
 L.TranslationBy						= "Barsoom, Bunny67, Zidras"
-L.Website							= "Visit us on discord at |cFF73C2FBhttps://discord.gg/CyVWDWS|r"
+L.Website							= "Visit us on discord at |cFF73C2FBhttps://discord.gg/vj8K2k4BYK|r"
 L.WebsiteButton						= "Website"
 
 L.OTabBosses						= "Boss Options"--Deprecated and will be deleted once tabs no longer use this

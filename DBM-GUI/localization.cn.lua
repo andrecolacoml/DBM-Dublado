@@ -8,11 +8,11 @@ if not DBM_GUI_L then DBM_GUI_L = {} end
 
 local L = DBM_GUI_L
 
---L.MainFrame				= "Deadly Boss Mods"
+--L.MainFrame				= "DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)"
 
 L.TranslationByPrefix		= "向后移植 "
 L.TranslationBy			= "Barsoom, Bunny67, Zidras"
-L.Website					= "拜访我们的Discord |cFF73C2FBhttps://discord.gg/CyVWDWS|r."
+L.Website					= "拜访我们的Discord |cFF73C2FBhttps://discord.gg/vj8K2k4BYK|r."
 L.WebsiteButton				= "网页"
 
 L.OTabBosses	= "模块"

@@ -8,15 +8,15 @@
 ## Title-esES:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff0055FF Interfaz gráfica|r
 ## Title-esMX:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff0055FF Interfaz gráfica|r
 ## Title-frFR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff0055FF IUG des options|r
-## Notes: GUI for Deadly Boss Mods
-## Notes-deDE: Grafische Benutzeroberfläche für Deadly Boss Mods
-## Notes-zhCN: Deadly Boss Mods的设置界面
+## Notes: GUI for DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)
+## Notes-deDE: Grafische Benutzeroberfläche für DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)
+## Notes-zhCN: DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)的设置界面
 ## Notes-ruRU: Графический интерфейс пользователя DBM
-## Notes-zhTW: Deadly Boss Mods的使用者介面
-## Notes-koKR: Deadly Boss Mods의 GUI
-## Notes-esES: Interfaz gráfica de Deadly Boss Mods
-## Notes-esMX: Interfaz gráfica de Deadly Boss Mods
-## Notes-frFR: IUG pour Deadly Boss Mods
+## Notes-zhTW: DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)的使用者介面
+## Notes-koKR: DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)의 GUI
+## Notes-esES: Interfaz gráfica de DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)
+## Notes-esMX: Interfaz gráfica de DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)
+## Notes-frFR: IUG pour DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)
 ## Dependencies: DBM-Core
 ## LoadOnDemand: 1
 ## DefaultState: enabled

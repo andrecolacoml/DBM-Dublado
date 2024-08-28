@@ -3,7 +3,7 @@ if not DBM_GUI_L then DBM_GUI_L = {} end
 
 local L = DBM_GUI_L
 
---L.MainFrame = "Deadly Boss Mods"
+--L.MainFrame = "DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)"
 
 -- Missing phrases. Start ..
 L.Core_GUI					= "Ядро и графический интерфейс"
@@ -85,7 +85,7 @@ L.Lowest							= "Наименьший таймер наверху"
 
 L.TranslationByPrefix		= "Retail backport by "
 L.TranslationBy				= "Barsoom, Bunny67, Zidras"
-L.Website					= "Discord для обсуждения: |cFF73C2FBhttps://discord.gg/CyVWDWS|r"
+L.Website					= "Discord для обсуждения: |cFF73C2FBhttps://discord.gg/vj8K2k4BYK|r"
 L.WebsiteButton				= "Форумы"
 
 L.OTabBosses				= "Боссы"
