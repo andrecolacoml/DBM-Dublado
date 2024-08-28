@@ -1,5 +1,5 @@
 -- *********************************************************
--- **               Deadly Boss Mods - Core               **
+-- **               DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK) - Core               **
 -- **            http://www.deadlybossmods.com            **
 -- *********************************************************
 --
@@ -437,7 +437,7 @@ local playerName = UnitName("player")
 local playerLevel = UnitLevel("player")
 local playerRealm = GetRealmName()
 --local lastCombatStarted = GetTime()
-local chatPrefix = "<Deadly Boss Mods> "
+local chatPrefix = "<DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)> "
 local chatPrefixShort = "<" .. L.DBM .. "> "
 local usedProfile = "Default"
 local dbmIsEnabled = true

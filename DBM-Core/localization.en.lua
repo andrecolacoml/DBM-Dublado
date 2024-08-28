@@ -2,7 +2,7 @@ DBM_CORE_L = {}
 
 local L = DBM_CORE_L
 
-L.DEADLY_BOSS_MODS						= "Deadly Boss Mods" -- NO TRANSLATE
+L.DEADLY_BOSS_MODS						= "DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)" -- NO TRANSLATE
 L.DBM									= "DBM" -- NO TRANSLATE
 
 -- April Fools
