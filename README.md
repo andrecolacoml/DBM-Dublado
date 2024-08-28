@@ -16,3 +16,5 @@ Qualquer dúvida ou sugestão podem me procurar no Discord https://discord.gg/vV
 3 - Copie e cole no caminho Pasta do WOW\interface\AddOns\
 
 4 - Confirme a substituição se pedir.
+
+<img src="[URL_da_Imagem](https://cdn.discordapp.com/attachments/1273738465594314782/1273742096129458347/image.png?ex=66cf8a44&is=66ce38c4&hm=286e29717a9f0bb570d7545bd9227f40093c85cb5e23779342be10bd197e85a3&)" alt="Texto Alternativo">
