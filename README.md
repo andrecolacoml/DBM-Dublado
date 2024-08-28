@@ -17,7 +17,7 @@ Qualquer dúvida ou sugestão podem me procurar no Discord https://discord.gg/vV
 
 4 - Confirme a substituição se pedir.
 
-**Atenção:**
+**Atenção!**
 
 Para uma melhor experiência abra a config do DBM dentro do jogo e marque NERYSSA (ptBR) nas 4 caixas.
 
