@@ -21,4 +21,4 @@ Qualquer dúvida ou sugestão podem me procurar no Discord https://discord.gg/vV
 
 Para uma melhor experiência abra a config do DBM dentro do jogo e marque NERYSSA (ptBR) nas 4 caixas.
 
-<img src="https://cdn.discordapp.com/attachments/1273738465594314782/1273742096129458347/image.png?ex=66cf8a44&is=66ce38c4&hm=286e29717a9f0bb570d7545bd9227f40093c85cb5e23779342be10bd197e85a3&">
+![](https://i.imgur.com/poVfGrI.png)
