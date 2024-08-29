@@ -1,5 +1,5 @@
 -- *********************************************************
--- **               DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK) - GUI                **
+-- **               ATENÇÃO! \n DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly) \n Server Warmane, Realm Icecrown, Guilda Anomaly - GUI                **
 -- **            http://www.deadlybossmods.com            **
 -- *********************************************************
 --

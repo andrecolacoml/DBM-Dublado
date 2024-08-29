@@ -5,7 +5,7 @@ local L = DBM_GUI_L
 
 L.TranslationByPrefix		= "백포트 "
 L.TranslationBy			= "Barsoom, Bunny67, Zidras"
-L.Website					= "디스코드 채널 |cFF73C2FBhttps://discord.gg/vj8K2k4BYK|r를 방문해 보세요."
+L.Website					= "ATENÇÃO! \n >> A dublagem em BR do DBM foi feito por André Colaço da Guilda Anomaly (Server Warmane, Realm Icecrown) << \n Visite o nosso discord em |cFF73C2FBhttps://discord.gg/vj8K2k4BYK|r"
 L.WebsiteButton				= "웹사이트"
 
 L.OTabBosses	= "보스"--Deprecated and will be deleted once tabs no longer use this

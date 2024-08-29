@@ -9,7 +9,7 @@
 ## Title-esES:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff0055FF Núcleo|r
 ## Title-esMX:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff0055FF Núcleo|r
 ## Title-frFR:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff0055FF Noyau|r
-## Notes: DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)
+## Notes: DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly)
 ## Dependencies: DBM-StatusBarTimers
 ## OptionalDeps: LibStub, CallbackHandler-1.0, LibSharedMedia-3.0, LibChatAnims, LibDBIcon-1.0, LibDeflate, LibSerialize, LibGroupTalents-1.0, LibTalentQuery-1.0, ElvUI
 ## SavedVariables: DBM_AllSavedOptions, DBM_MinimapIcon

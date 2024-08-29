@@ -2,7 +2,7 @@ DBM_CORE_L = {}
 
 local L = DBM_CORE_L
 
-L.DEADLY_BOSS_MODS						= "DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)" -- NO TRANSLATE
+L.DEADLY_BOSS_MODS						= "ATENÇÃO! Versão Dublada do DBM foi feita por André Colaço - Guilda Anomaly (Server Warmane, Realm Icecrown)" -- NO TRANSLATE
 L.DBM									= "DBM" -- NO TRANSLATE
 
 -- April Fools

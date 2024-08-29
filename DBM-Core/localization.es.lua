@@ -529,7 +529,7 @@ L.AUTO_SOUND_OPTION_TEXT_CLOSE		= "Reproducir sonido en $spell:%d cerca de ti"
 
 -- New special warnings
 L.MOVE_WARNING_BAR			= "Anuncio desplazable"
-L.MOVE_WARNING_MESSAGE		= "Gracias por usar DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)"
+L.MOVE_WARNING_MESSAGE		= "Gracias por usar DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly)"
 L.MOVE_SPECIAL_WARNING_BAR	= "Aviso especial desplazable"
 L.MOVE_SPECIAL_WARNING_TEXT	= "Aviso especial"
 
@@ -567,12 +567,12 @@ L.COMBAT_RES_TIMER_TEXT	= "Siguiente resurrección"
 L.TIMER_RESPAWN		= "%s reaparece"
 
 L.LAG_CHECKING				= "Comprobando latencia de la banda..."
-L.LAG_HEADER					= "DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK) - Resultados de latencia"
+L.LAG_HEADER					= "DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly) - Resultados de latencia"
 L.LAG_ENTRY					= "%s: Latencia de mundo [%d ms] / Latencia de hogar [%d ms]"
 L.LAG_FOOTER					= "Sin respuesta: %s"
 
 L.DUR_CHECKING				= "Comprobando durabilidad de la banda..."
-L.DUR_HEADER					= "DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK) - Resultados de durabilidad"
+L.DUR_HEADER					= "DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly) - Resultados de durabilidad"
 L.DUR_ENTRY					= "%s: Durabilidad [%d%%] / Piezas rotas [%s]"
 L.LAG_FOOTER					= "Sin respuesta: %s"
 

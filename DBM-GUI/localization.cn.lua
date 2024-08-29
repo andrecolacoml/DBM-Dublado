@@ -8,11 +8,11 @@ if not DBM_GUI_L then DBM_GUI_L = {} end
 
 local L = DBM_GUI_L
 
---L.MainFrame				= "DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)"
+--L.MainFrame				= "ATENÇÃO! \n DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly) \n Server Warmane, Realm Icecrown, Guilda Anomaly"
 
 L.TranslationByPrefix		= "向后移植 "
 L.TranslationBy			= "Barsoom, Bunny67, Zidras"
-L.Website					= "拜访我们的Discord |cFF73C2FBhttps://discord.gg/vj8K2k4BYK|r."
+L.Website					= "ATENÇÃO! \n >> A dublagem em BR do DBM foi feito por André Colaço da Guilda Anomaly (Server Warmane, Realm Icecrown) << \n Visite o nosso discord em |cFF73C2FBhttps://discord.gg/vj8K2k4BYK|r"
 L.WebsiteButton				= "网页"
 
 L.OTabBosses	= "模块"

@@ -1,5 +1,5 @@
 -- *********************************************************
--- **               DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK) - Core               **
+-- **               DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly) - Core               **
 -- **            http://www.deadlybossmods.com            **
 -- *********************************************************
 --
@@ -145,10 +145,10 @@ DBM.DefaultOptions = {
 	SpecialWarningSound4 = "Sound\\Creature\\HoodWolf\\HoodWolfTransformPlayer01.wav",
 	SpecialWarningSound5 = "Sound\\Creature\\Loathstare\\Loa_Naxx_Aggro02.wav",
 	ModelSoundValue = "Short",
-	CountdownVoice = "Corsica",
-	CountdownVoice2 = "Kolt",
-	CountdownVoice3 = "Smooth",
-	PullVoice = "Corsica",
+	CountdownVoice = "Neryssa (ptBR)",
+	CountdownVoice2 = "Neryssa (ptBR)",
+	CountdownVoice3 = "Neryssa (ptBR)",
+	PullVoice = "Neryssa (ptBR)",
 	ChosenVoicePack2 = (GetLocale() == "enUS" or GetLocale() == "enGB") and "VEM" or "None",
 	VPReplacesAnnounce = true,
 	VPReplacesSA1 = true,
@@ -159,9 +159,9 @@ DBM.DefaultOptions = {
 	VPReplacesCustom = false,
 	AlwaysPlayVoice = false,
 	VPDontMuteSounds = false,
-	EventSoundVictory2 = "None", --"Interface\\AddOns\\DBM-Core\\sounds\\Victory\\SmoothMcGroove_Fanfare.ogg",
+	EventSoundVictory2 = "Interface\\AddOns\\DBM-Core\\sounds\\Victory\\SmoothMcGroove_Fanfare.ogg",
 	EventSoundWipe = "None",
-	EventSoundPullTimer = "None",
+	EventSoundPullTimer = "Sound\\Creature\\MuradinBronzebeard\\IC_Muradin_Saurfang02.wav",
 	EventSoundEngage2 = "None",
 	EventSoundMusic = "None",
 	EventSoundDungeonBGM = "None",
@@ -437,7 +437,7 @@ local playerName = UnitName("player")
 local playerLevel = UnitLevel("player")
 local playerRealm = GetRealmName()
 --local lastCombatStarted = GetTime()
-local chatPrefix = "<DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly ou Guilda AFK)> "
+local chatPrefix = "<ATENÇÃO! DBM (Ver Dublada por Andre Colaco ML - Guilda Anomaly) - Server Warmane, Realm Icecrown, Guilda Anomaly> "
 local chatPrefixShort = "<" .. L.DBM .. "> "
 local usedProfile = "Default"
 local dbmIsEnabled = true
@@ -9859,10 +9859,10 @@ do
 			path = countpath3 or "Interface\\AddOns\\DBM-Core\\Sounds\\Smooth\\"
 		elseif voice == 4 then
 			maxCount = countvoice4max or 10
-			path = countpath4 or "Interface\\AddOns\\DBM-Core\\Sounds\\Corsica\\"
+			path = countpath4 or "Interface\\AddOns\\DBM-Core\\Sounds\\Neryssa\\"
 		else
 			maxCount = countvoice1max or 10
-			path = countpath1 or "Interface\\AddOns\\DBM-Core\\Sounds\\Corsica\\"
+			path = countpath1 or "Interface\\AddOns\\DBM-Core\\Sounds\\Neryssa\\"
 		end
 		if not path then--Should not happen but apparently it does somehow
 			DBM:Debug("Voice path failed in countdownProtoType:Start.")
