@@ -83,7 +83,7 @@ end
 
 DBM = {
 	Revision = parseCurseDate("20240720232706"),
-	DisplayVersion = "10.1.12", -- the string that is shown as version
+	DisplayVersion = "Anomaly 10.1.12", -- the string that is shown as version
 	ReleaseRevision = releaseDate(2024, 07, 20) -- the date of the latest stable version that is available, optionally pass hours, minutes, and seconds for multiple releases in one day
 }
 
